@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HOLA SOY ANAIRENE!!
+=======
+conflicto
+>>>>>>> origin/master
